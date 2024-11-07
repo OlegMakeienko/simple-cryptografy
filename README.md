@@ -1,8 +1,22 @@
-# React + Vite
+# Simple Cryptography
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En enkel krypterings- och dekrypteringsapplikation byggd med React och Vite.
 
-Currently, two official plugins are available:
+## Beskrivning
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Detta projekt är en webbapplikation som låter användare kryptera och dekryptera text med en enkel algoritm. Det är byggt som ett demonstrationsprojekt för att visa grundläggande kryptografiska koncept och React-utveckling.
+
+## Funktioner
+
+- Kryptering av text
+- Dekryptering av text
+- Responsiv design
+- Enkel och intuitiv användargränssnitt
+
+## Teknologier
+
+- React
+- Vite
+- CSS
+- GitHub Pages för hosting
+- CyPress för testing
